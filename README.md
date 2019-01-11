@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About
 
-This is a personal learning project to play around with firebase
+This is a personal learning project where I play around with firebase
